@@ -18,7 +18,7 @@ public class EdgeDiscountData implements ArgumentsProvider {
 				2, 2, 2, 2,
 				3, 3, 3, 3, 3,
 				4, 4, 4, 4},
-				3 * (Potter.ONE_BOOK_PRICE * 5 * Potter.discountRatio.get(3)) + 2 * (Potter.ONE_BOOK_PRICE * 4 * Potter.discountRatio.get(4))
+				3 * (Potter.ONE_BOOK_PRICE * 5 * Potter.discountRatio.get(5)) + 2 * (Potter.ONE_BOOK_PRICE * 4 * Potter.discountRatio.get(4))
 				)
 		);
 	}
